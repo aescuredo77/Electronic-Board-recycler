@@ -29,7 +29,7 @@ The concept is based on two existing models.
 
 ## Concept ##
 
-The idea was to crush the electronic circuits and extract the materials by means of eddy currents. Other types of treatments are also proposed to be able to recover the rest of the materials, but it was not the main part of the project.
+The idea was to crush the electronic circuits and extract the materials by means of eddy currents. Other types of treatments are also proposed to be able to recover the rest of the materials, but it was not the main part of the project. The response of non-ferromagnetic materials to foucault currents causes a different response depending on their density. In this way it is possible to separate copper, aluminum, nickel, etc.
 
 ## Documents ##
 
