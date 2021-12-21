@@ -31,5 +31,18 @@ The concept is based on two existing models.
 
 The idea was to crush the electronic circuits and extract the materials by means of eddy currents. Other types of treatments are also proposed to be able to recover the rest of the materials, but it was not the main part of the project.
 
+## Documents ##
+
+- Project memory.
+- Annex I progamming of the Schneider Electric Twido PLC.
+- Annex II Programming of the Schneider Electric terminal XBTN200.
+- Annex V Programming of the Schneider Electric ATV31 power inverters.
+
+Note: during this period of time I work as after sales service for Schneider material among others
+
+
+
+
+
 
 
